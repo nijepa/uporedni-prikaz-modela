@@ -1,4 +1,4 @@
-# uporedni-prikaz-modela
+# uporedni-prikaz-modela (test)
 
 ## Project setup
 ```
